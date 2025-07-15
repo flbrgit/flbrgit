@@ -1,4 +1,4 @@
-## Hi, I'm Florian ✨
+## Hi, I'm Florian!
 
 🧠 Computer science student at TUM<br/>
 🤖 Specializing in AI with focus on optimization and scalability<br/>
